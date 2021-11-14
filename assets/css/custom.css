@@ -1,0 +1,204 @@
+body, html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: var(--gray-light);
+    transition: backgroud ease-out 0.2s;
+}
+
+#slider {
+    width: 100%;
+    background-image: linear-gradient(var(--purple-dark), var(--purple-medium), var(--purple-light));
+}
+
+.intro {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--white);
+}
+
+.check-list {
+    display: flex;
+    align-items: center;
+}
+
+.check-list>.item-check-list {
+    color: var(--white);
+    padding-left: 10px;
+}
+
+.mt {
+    margin-top: -10px;
+}
+
+.form-box {
+    /* width: 450px; */
+    background-color: var(--white);
+}
+
+.text {
+    background-color: var(--white);
+    border-radius: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-bottom: 35px;
+}
+
+.form-intro h4{
+    color: var(--purple-dark);
+    font-size: 20px;
+    font-weight: bold;
+}
+.row label {
+    color: var(--purple-dark);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.row input, .row select{
+    background-color: var(--gray-clear);
+}
+
+.btn-primary {
+    background-color: var(--button-primary);
+    border-color: var(--button-borde);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.btn-primary:hover {
+    background-color: var(--purple-dark);
+    border-color: var(--purple-dark);
+}
+
+.intro-text {
+    padding-top: 90px;
+}
+
+/* Investment */
+#investment {
+    margin-top: 90px;
+    width: 100%;
+    background-color: var(--section-background);
+}
+
+
+.investment-intro {
+    margin-left: 90px;
+}
+
+.img-investment img {
+    margin-top: -40px;
+}
+
+.investment-intro h2 {
+    font-size: 32px;
+    font-weight: 500;
+    color: var(--purple-dark);
+    line-height: 1.4em;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.investment-intro p {
+    font-size: 16.5px;
+    color: var(--purple-dark);
+    max-width: 450px;
+}
+
+/* Start */
+
+#start {
+    width: 100%;
+    height: 370px;
+    margin-top: 110px;
+    background-color: var(--gray-clear);
+}
+
+.start-intro{
+    margin-top: -20px;
+    margin-bottom: 60px;
+}
+
+.start-intro span {
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--purple-dark);
+}
+
+.btn-secondary {
+    background-color: var(--yellow);
+    border-color: var(--yellow);
+    font-weight: bold;
+    color: var(--purple-dark);
+}
+
+.btn-secondary:hover {
+    background-color: transparent;
+    border-color: var(--yellow);
+    color: var(--purple-dark);
+}
+
+/* Benefits */
+
+.benefit-first{
+    margin-top: 50px;
+}
+
+.benefits-intro {
+    width: 250px;
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--purple-dark);
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+
+.benefits-sub-text {
+    padding-left: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+    color: var(--purple-dark);
+    width: 400px;
+}
+
+.img-benefit {
+    margin-left: -50px;
+}
+
+.divider {
+    width: 2px;
+    height: 130px;
+    color: transparent;
+    background-color: var(--purple-dark);
+}
+
+/* Meet */
+
+#meet {
+    width: 100%;
+    background-color: var(--gray-clear);
+}
+
+.meet-intro span {
+    font-size: 19px;
+    max-width: 500px;
+    font-weight: 500;
+    color: var(--purple-dark);
+    margin-left: 50px;
+}
+
+/* Footer */
+
+#footer {
+    background-image: linear-gradient(to right, var(--purple-dark) , var(--purple-medium), var(--purple-light));
+    /* height: 160px; */
+}
+

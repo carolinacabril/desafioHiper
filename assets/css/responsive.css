@@ -1,0 +1,141 @@
+
+/* MAX */
+
+@media (max-width: 575.98px) {
+
+    .benefit-first.justify-content-center{
+        justify-content: start;
+    }
+    .intro-text {
+        padding-top: 50px;
+    }
+
+    .text {
+        background-color: var(--white);
+        margin-bottom: 35px;
+    }
+
+    #start {
+        height: auto;
+    }
+
+    .benefits-sub-text {
+        padding-left: 20px;
+        font-size: 16px;
+        margin-top: 50px;
+        color: var(--purple-dark);
+        width: 400px;
+    }
+
+    .investment-intro {
+        margin-left: 0px;
+    }
+
+    .img-benefit {
+        margin-left: -78px;
+    }
+
+    .divider {
+        display: none;
+    }
+}
+
+/* MIN AND MAX*/
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    div.col-md-11.investment-intro{
+        margin: 0px;
+    }
+
+    .intro-text {
+        padding-top: 30px;
+    }
+
+    .investment-intro{
+        margin-left: 30px;
+    }
+
+    .investment-intro h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .investment-intro p {
+        font-size: 10.5px;
+        max-width: 200px;
+    }
+
+    #start {
+        height: auto;
+    }
+
+    .benefits-intro {
+        font-size: 22px;
+    }
+    .benefits-sub-text {
+        font-size: 14px;
+    }
+
+    .img-benefit {
+        margin-left: 0px;
+    }
+
+    .meet-intro span {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .investment-intro{
+        margin-left: 0px;
+    }
+
+    .investment-intro h2 {
+        font-size: 22px;
+    }
+
+    .investment-intro p {
+        font-size: 14.5px;
+        max-width: 350px;
+    }
+
+    .img-benefit {
+        margin-left: 0px;
+    }
+
+    .form-intro h4{
+        font-size: 18px;
+    }
+
+    .row label {
+        font-size: 12px;
+    }
+
+    .btn-primary {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1009px) {
+
+    div.col-md-11.investment-intro{
+        margin: 0px;
+    }
+    div.teste {
+        margin: 0px;
+    }
+
+    .investment.investment-intro {
+        margin: 0px;
+    }
+
+    .investment-intro {
+        margin-left: 0px;
+    }
+
+    .investment-intro h2 {
+        font-size: 22px;
+    }
+
+}

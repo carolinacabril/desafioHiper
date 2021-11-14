@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="273.54" viewBox="0 0 388 273.54">
+  <g id="Grupo_3124" data-name="Grupo 3124" transform="translate(-1017.305 -1940.46)">
+    <text id="Treinamento" transform="translate(1017.305 2055)" fill="#333" font-size="24" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">Treinamento</tspan></text>
+    <text id="A_Hiper_se_responsabiliza_pelo_seu_treinamento_e_o_dos_novos_clientes_para_tirar_dúvidas_e_apresentar_tudo_sobre_o_sistema." data-name="A Hiper se responsabiliza pelo seu treinamento e o dos novos clientes, para tirar dúvidas e apresentar tudo sobre o sistema." transform="translate(1019.305 2086)" fill="#818181" font-size="16" font-family="Montserrat-Medium, Montserrat" font-weight="500" letter-spacing="0.015em"><tspan x="0" y="15">A Hiper se responsabiliza pelo seu </tspan><tspan x="0" y="43">treinamento e o dos novos clientes, para tirar </tspan><tspan x="0" y="71">dúvidas e apresentar tudo sobre o sistema.</tspan></text>
+    <g id="online-education" transform="translate(1017.305 1904.46)">
+      <path id="Caminho_2452" data-name="Caminho 2452" d="M132.928,216.245c6.388,0,12.854-2.078,12.854-6.049v-8.6l6.049-2.689v15.82a1.512,1.512,0,0,0,3.025,0V196.586a1.507,1.507,0,0,0-.926-1.394l-20.388-9.061a1.511,1.511,0,0,0-1.228,0L111.9,195.2a1.512,1.512,0,0,0,0,2.764l8.176,3.634V210.2c0,3.971,6.466,6.049,12.854,6.049Zm9.83-6.049c0,.9-3.344,3.025-9.83,3.025s-9.83-2.12-9.83-3.025v-7.251l9.215,4.1a1.514,1.514,0,0,0,1.229,0l9.215-4.1Zm-26.522-13.61,16.692-7.419,16.692,7.419L132.928,204Z" transform="translate(-94.214 -127.316)" fill="#a478b8"/>
+      <path id="Caminho_2453" data-name="Caminho 2453" d="M75.916,36H1.512A1.512,1.512,0,0,0,0,37.512v63.515a1.512,1.512,0,0,0,1.512,1.512h30.4a1.512,1.512,0,1,0,0-3.025H3.025V52.635H74.4v46.88H45.519a1.512,1.512,0,1,0,0,3.025h30.4a1.512,1.512,0,0,0,1.512-1.512V37.512A1.512,1.512,0,0,0,75.916,36ZM74.4,49.61H3.025V39.025H46.276v3.025a1.512,1.512,0,1,0,3.025,0V39.025h6.049v3.025a1.512,1.512,0,0,0,3.025,0V39.025h6.049v3.025a1.512,1.512,0,1,0,3.025,0V39.025H74.4Z" transform="translate(0 0)" fill="#a478b8"/>
+      <circle id="Elipse_264" data-name="Elipse 264" cx="1.431" cy="1.431" r="1.431" transform="translate(37.196 99.679)" fill="#a478b8"/>
+    </g>
+  </g>
+</svg>
